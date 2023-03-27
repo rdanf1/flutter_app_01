@@ -1,0 +1,360 @@
+git branch -a
+ls ..
+sudo
+sudo apt-get
+sudo dnf
+sudo apt-get install flutter
+sudo apt-get list flutter*
+sudo apt-get --help
+uname -a
+wget https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.8-stable.tar.xz
+tar xvJf flutter_linux_3.7.8-stable.tar.xz ../
+tar xvJf flutter_linux_3.7.8-stable.tar.xz -C ../
+ls ../flutter
+ls ../flutter/bin
+pwd
+echo $HOME
+export PATH=$PATH:/home/codespace/flutter/bin
+flutter doctor
+ls /home/codespace/flutter/bin
+ls /home/codespace/
+ls /home/codespace/nvm
+ls /home/codespace/
+ls
+ls ..
+export PATH=$PATH:../flutter/bin
+flutter doctor
+apt install libgtk-3-dev ninja-build
+sudo apt-get install libgtk-3-dev ninja-build
+sudo apt install libgtk-3-dev ninja-build
+sudo apt install ninja
+sudo apt-get install ninja
+sudo apt-get 
+sudo apt-get install ninja*
+sudo apt autoremove
+rm -fr /usr/share/dotnet
+sudo rm -fr /usr/share/dotnet
+sudo apt autoremove netstandard-targeting-pack-2.1
+sudo apt remove netstandard-targeting-pack
+sudo apt remove netstandard-targeting-pack-2.1
+flutter doctor
+sudo apt-get install google-chrome-stable
+sudo apt-get install google-chrome
+sudo apt-get install chrome
+apt-cache .
+apt-cache search .
+apt-cache search . > apt-cache-search-all.txt
+cat apt-cache-search-all.txt | grep gtk3
+cat apt-cache-search-all.txt | grep gtk
+apt-get install libgtk-3-0
+sudo apt-get install libgtk-3-0
+sudo apt-get install libgtk-3-0dev
+sudo apt-get install libgtk-3-0-dev
+apt-cache search gtk
+sudo apt-get install libgtk-3-common
+flutter doctor
+sudo apt-get install libgtk-3-devel
+uname -a
+sudo apt-get install libgtk-3-dev
+sudo apt-get install libglib2.0-0=2.40.0-2
+sudo apt-get install libglib2.0-0
+uname -a
+sudo vi /etc/apt/sources.list
+sudo apt-get install libgtk-3-dev
+sudo apt install java
+sudo apt instal openjdk
+apt-cache --search openjdk
+apt-cache search openjdk
+apt-cache search open
+apt-cache search jdk
+apt-cache search java
+gcc
+apt-cache search gtk+
+flutter doctor
+apt-cache search
+sudo vi /etc/apt/sources.list
+sudo apt-get install libgtk-3-dev
+sudo cat /etc/apt/sources.list
+sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu/ focal-backports focal-updates"
+sudo apt-get install libgtk-3-dev
+sudo apt-get install ninja
+sudo apt-cache search ninja
+sudo apt-get install ninja-build
+flutter doctor
+wget https://www.google.com/chrome/thank-you.html?platform=linux&statcb=0&installdataindex=empty&defaultbrowser=0
+wget 'https://www.google.com/chrome/thank-you.html?platform=linux&statcb=0&installdataindex=empty&defaultbrowser=0'
+ls
+rm 'thank'*
+ls
+ls linux
+ls
+mkdir ../tmp
+mv flutter_linux_3.7.8-stable.tar.xz ../tmp
+ls
+sudo apt-cache search .  > apt-cache-search-all2.txt
+ll apt-cache-search-all2.txt
+ls -lk apt-cache-search-all2.txt
+touch dan
+ll dan
+vi dan
+ll dan
+rm dan;
+sudo apt-cache search .  > apt-cache-search-all2.txt
+wget https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/chromium-browser/111.0.5563.64-0ubuntu0.18.04.5/chromium-browser_111.0.5563.64.orig.tar.xz
+wget https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/chromium-browser/111.0.5563.64-0ubuntu0.18.04.5/chromium-browser_111.0.5563.64.orig.tar.xz -C ../
+tar xvJf chromium-browser_111.0.5563.64.orig.tar.xz -C ../
+rm -fr ../chromium-111.0.5563.64
+ls
+rm chromium-browser_111.0.5563.64.orig.tar.xz
+wget http://launchpadlibrarian.net/655090312/chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+apt-get install chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+apt-get install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+sudo apt-get install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+sudo apt-get instal  chromium-codecs-ffmpeg-extra  chromium-codecs-ffmpeg
+sudo apt-get install  chromium-codecs-ffmpeg-extra  chromium-codecs-ffmpeg
+sudo apt-get install  chromium-codecs-ffmpeg-extra  chromium-codecs-ffmpeg --force
+sudo apt-get instal  chromium-codecs-ffmpeg-extra 0 chromium-codecs-ffmpeg
+sudo apt-get install chromium-codecs-ffmpeg-extra 0 chromium-codecs-ffmpeg
+sudo apt-get install chromium-codecs-ffmpeg-extra chromium-codecs-ffmpeg
+sudo apt-get install chromium-codecs-ffmpeg
+apt-get install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+sudo apt-get install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+ls
+rm *.deb
+wget http://launchpadlibrarian.net/361587580/chromium-browser_65.0.3325.181-0ubuntu1_amd64.deb
+sudo apt-get install ./*.deb
+sudo apt-get install chromium-codecs-ffmpeg
+sudo apt-get install chromium-codecs-ffmpeg-extra
+rm *.deb
+wgethttp://launchpadlibrarian.net/655090312/chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+wgetvhttp://launchpadlibrarian.net/655090312/chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+wget http://launchpadlibrarian.net/655090312/chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+ls
+sudo apt-get install chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+sudo apt-get install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+sudo apt-get install chromium-browser
+flutter doctor
+which chromium-browser
+export CHROME_EXECUTABLE=/usr/bin/chromium-browser
+flutter doctor
+wget https://redirector.gvt1.com/edgedl/android/studio/ide-zips/2022.1.1.21/android-studio-2022.1.1.21-linux.tar.gz
+tar xvzf android-studio-2022.1.1.21-linux.tar.g-C z../
+tar xvzf android-studio-2022.1.1.21-linux.tar.gz -C z../
+tar xvzf android-studio-2022.1.1.21-linux.tar.gz -C ../
+ls ../android-studio
+ls ../android-studio/bin
+../android-studio/bin/studio.sh
+echo $DISPLAY
+flutter doctor
+flutter config --android-sdk
+flutter config --android-sdk ../android-studio
+flutter doctor
+flutter config --android-sdk ../android-studio/bin
+flutter doctor
+flutter config --android-sdk "../android-studio/bin"
+flutter doctor
+wget https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+unzip --help
+ls
+cd ..
+lsà&
+wget https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+ls
+unzip platform-tools-latest-linux.zip
+ls
+cd flutter_app_01
+ls
+flutter doctor
+flutter config --android-studio-dir=../android-studio
+flutter doctor
+flutter config --android-studio-dir=../android-studio/bin
+flutter doctor
+ls ./android-studio
+ls ../android-studio
+ls ../android-studio/jbr
+ls ../android-studio/jbr/bin
+flutter config --android-studio-dir="../android-studio/"
+flutter doctor
+cd ../android-studio
+ls
+cd jbr
+ln -s ../jre jdk
+flutter doctor -v
+cd ../../flutter*
+cd ../../flutter*01
+flutter doctor -v
+ls ../android-studio
+cd ../android-studio
+ls jbr
+rm jbr/jdk
+ln -s jbr jdk
+ls
+cd ../Flutter*01
+ls ..
+cd ../flutter*01
+flutter doctor -v
+lynx https://cocoapods.org/
+hrome-browser https://cocoapods.org/
+chromium-browser https://cocoapods.org/
+snap install chromium
+sudo snap install chromium
+sudo apt-get install snap
+sudo snap install chromium
+snap install chromium
+chromium-browser
+snap install chromium
+sudo systemctl unmask snapd.service
+sudo service unmask snapd.service
+sudo service snapd
+sudo service --status-all
+sudo service start napd 
+sudo service snapd 
+
+flutter doctor -v
+cd ../android-studio
+ls
+ln -sf jbr jre
+cd ../flutter*01
+flutter doctor -v
+/usr/bin/chromium-browser
+sudo apt update
+sudo apt ugrade
+sudo apt upgrade
+ls
+mv android-studio-2022.1.1.21-linux.tar.gz platform-tools-latest-linux.zip ../tmp
+ls
+sudo apt install ./chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+ls
+rm chromium-browser_111.0.5563.64-0ubuntu0.18.04.5_amd64.deb
+ls
+wget http://dl.google.com/android/android-sdk_r22.0.5-linux.tgz
+tar tvzf android-sdk_r22.0.5-linux.tgz
+tar xvzf android-sdk_r22.0.5-linux.tgz ../
+tar xvzf android-sdk_r22.0.5-linux.tgz -C ../
+flutter doctor -v
+ls ..
+flutter config --android-sdk=../ndroid-sdk-linux
+flutter config --android-sdk=../android-sdk-linux
+flutter doctor -v
+ls ../android-sdk-linux
+ls ../android-sdk-linux/platforms
+ls ../android-sdk-linux/tools
+ls ../android-sdk-linux
+ls ../android-sdk-linux/add-ons
+flutter config --android-sdk=../android-sdk-linux/tools
+flutter doctor -v
+ls ../android-sdk-linux/tools
+rm -fr ../android-sdk-linux
+ls
+mv android-sdk_r22.0.5-linux.tgz ../tmp
+cd ..
+ls flutt*01/
+ls tmp
+unzip tmp/platform-tools-latest-linux.zip
+cd flutt*01/
+flutter config --android-sdk=../platform-tools
+flutter doctor -v
+ls ../platform-tools
+../platform-tools/adb
+ls ../platform-tools/
+flutter doctor -v
+../platform-tools/adb
+cd ../platform-tools
+ln -s ./ bin
+ls
+../platform-tools/bin/adb
+cd flutter*01
+cd ./flutter*01
+cd ../flutter*01
+flutter doctor -v
+cd ..
+git clone https://android.googlesource.com/platform/prebuilts/fullsdk/build-tools/22-linux
+ls
+ls 22-linux
+ls 22-linux/lib
+rm -fr 22-linux
+ls:
+export ANDROID_SDK_ROOT=/platform-tools/
+cd flut*01
+flutter doctor -v
+flutter devices
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ls
+apt install ./google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+which chrome
+which google-chrome
+google-chrome
+sudo apt-get remove chromium-browser
+flutter doctor
+set
+set | grep chrome
+set | grep chromi
+export CHROME_EXECUTABLE=/usr/bin/google-chrome
+flutter doctor
+flutter doctor -v
+sudo apt-get -y install android-sdk-build-tools
+which adb
+ls
+ls android
+ls android/app
+ls ..
+sudo apt-cache search android-sdk-build-tools
+apt-cahe
+apt-cache
+sudo apt-cache show android-sdk-build-tools
+adb --version
+sudo apt-get -y install android-sdk
+adb --version
+flutter doctor -v
+ls ../tmp
+ls ../
+ls ../platform-tools
+lynx ./
+ls /usr/lib/android-sdk
+lynx /usr/lib/android-sdk/
+utime
+uptime
+apt-cache search cmdline-tools
+apt-cache search cmdline
+which sdkmanager
+which sadb
+which adb
+lynx ./
+lynx ../
+adb --version
+find usr/lib/android-sdk -name \*manager
+find /usr/lib/android-sdk -name \*manager
+find /uusr/ -name \*manager
+find /usr/ -name \*manager
+find ../ -name \*manager
+lynx /usr/lib/android-sdk
+lynx ./
+lynx ../
+wget https://dl.google.com/android/repository/commandlinetools-linux-9477386_latest.zip
+cd ..
+unzip flutter_app_01/commandlinetools-linux-9477386_latest.zip
+cd cmdline-tools
+ls
+cd bin
+flutter doctor -v
+ls
+./sdkmanager --install "cmdline-tools;latest"
+./sdkmanager --install "cmdline-tools;latest" --sdk_root=../
+ls ..
+ls ../..
+adb --version
+./sdkmanager --install "cmdline-tools;latest" --sdk_root=/usr/lib/android-sdk/
+sudo ./sdkmanager --install "cmdline-tools;latest" --sdk_root=/usr/lib/android-sdk/
+cd ../../flutter*01
+ls
+flutter doctor -v
+flutter doctor --android-licences
+flutter doctor --android-licence
+flutter doctor --android-licences
+flutter doctor --android-licenses
+flutter doctor -v
+lynx https://cocoapods.org/
+ping https://cocoapods.org/
+lynx https://cocoapods.org/
+exit
