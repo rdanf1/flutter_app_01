@@ -1,0 +1,43 @@
+@rdanf1 ➜ /workspaces/flutter_app_01 (main) $ flutter doctor -v
+[✓] Flutter (Channel stable, 3.7.8, on Ubuntu 20.04.6 LTS 5.4.0-1104-azure, locale C.UTF-8)
+    • Flutter version 3.7.8 on channel stable at /workspaces/flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 90c64ed42b (6 days ago), 2023-03-21 11:27:08 -0500
+    • Engine revision 9aa7816315
+    • Dart version 2.19.5
+    • DevTools version 2.20.1
+
+[!] Android toolchain - develop for Android devices (Android SDK version 27.0.1)
+    • Android SDK at /usr/lib/android-sdk
+    ✗ Flutter requires Android SDK 29 and the Android BuildTools 28.0.3
+      To update the Android SDK visit https://flutter.dev/docs/get-started/install/linux#android-setup
+      for detailed instructions.
+    ! Some Android licenses not accepted. To resolve this, run: flutter doctor --android-licenses
+
+[✓] Chrome - develop for the web
+    • Chrome at google-chrome
+
+[✓] Linux toolchain - develop for Linux desktop
+    • clang version 10.0.0-4ubuntu1
+    • cmake version 3.16.3
+    • ninja version 1.10.0
+    • pkg-config version 0.29.1
+
+[✓] Android Studio
+    • Android Studio at ../android-studio/
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • android-studio-dir = ../android-studio/
+    • Java version OpenJDK Runtime Environment (build 11.0.15+0-b2043.56-8887301)
+
+[✓] Connected device (2 available)
+    • Linux (desktop) • linux  • linux-x64      • Ubuntu 20.04.6 LTS 5.4.0-1104-azure
+    • Chrome (web)    • chrome • web-javascript • Google Chrome 111.0.5563.146
+
+[✓] HTTP Host Availability
+    • All required HTTP hosts are available
+
+! Doctor found issues in 1 category.
+@rdanf1 ➜ /workspaces/flutter_app_01 (main) $
