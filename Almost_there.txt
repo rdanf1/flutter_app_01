@@ -40,4 +40,10 @@
     • All required HTTP hosts are available
 
 ! Doctor found issues in 1 category.
-@rdanf1 ➜ /workspaces/flutter_app_01 (main) $
+@rdanf1 ➜ /workspaces/flutter_app_01 (main) $ vi Almost_there.txt
+@rdanf1 ➜ /workspaces/flutter_app_01 (main) $ ls ../tmp
+android-studio-2022.1.1.21-linux.tar.gz    flutter_linux_3.7.8-stable.tar.xz
+apt-cache-search-all.txt                   google-chrome-stable_current_amd64.deb
+apt-cache-search-all2.txt                  platform-tools-latest-linux.zip
+commandlinetools-linux-9477386_latest.zip
+@rdanf1 ➜ /workspaces/flutter_app_01 (main) $ 
